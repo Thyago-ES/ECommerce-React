@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "Rel\u00f3gio Elegante",
+		"price": 50.99,
+		"image": "https://a-static.mlcdn.com.br/450x450/relogio-masculino-elegante-yazole-design-luxo-506-branco-pulseira-marrom/intimes/9385493168/3e21cdd65d879372058068de1e9af20c.jpg"
+	},
+	{
+		"id": 2,
+		"name": "C\u00e2mera Vintage",
+		"price": 85.5,
+		"image": "https://st3.depositphotos.com/1785730/16733/i/1600/depositphotos_167338642-stock-photo-retro-camera-vintage-photocamera.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Fones de Ouvido",
+		"price": 35.99,
+		"image": "https://cdn.awsli.com.br/600x600/1113/1113512/produto/110434143/0fd759954d.jpg"
+	},
+	{
+		"id": 4,
+		"name": "T\u00eanis de Corrida",
+		"price": 120.0,
+		"image": "https://cdnv2.moovin.com.br/deckeronline/imagens/produtos/det/tenis-de-corrida-olympikus-swift-4-knit-leve-esportivo-feminino-514b5ac0e6dfeea68681e4f8a959613f.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Smartphone",
+		"price": 299.99,
+		"image": "https://images-americanas.b2w.io/produtos/7487029609/imagens/smartphone-x6-5g-256gb-12gb-ram-azul/7487029612_1_large.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Livro de Aventura",
+		"price": 19.99,
+		"image": "https://www.moderna.com.br/lumis/portal/file/fileDownload.jsp?fileId=8A808A834EDE6862014EDEE73F276847"
+	}
+]
